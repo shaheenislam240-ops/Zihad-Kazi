@@ -1,19 +1,19 @@
 ---------
 
-### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺
+### —͟͟͞͞KING HASIB   🌺
 
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`** 
 
 
 
 Assalamualaikum Everyone!  
-**Welcome to My SHAHADAT CHAT BOT Fork!**
+**Welcome to KING HASIB Fork!**
 
-![Box-shaped Image](https://i.imgur.com/u7VnPzH.png)
+![Box-shaped Image]https://www.facebook.com/100001207035597/posts/25100506949572860/?substory_index=2652137585131685&app=fbl
 
-<p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="font-size: 24px; font-weight: bold;">SHAHADAT CHAT BOT</span><br>
-  <span> Develop By SHAHADAT SAHU</span>
+<p align="center" style="aanimation glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <span style="font-size: 24px; font-weight: bold;">KING HASIB</span><br>
+  <span> Develop By KING HASIB</span>
 </p>
 
 
@@ -136,17 +136,17 @@ ___
 
 ## 👨‍💻 **ABOUT THE DEVELOPER**  
   
-**Name:** **`SHAHADAT ISLAM`**  
-**Nice Name:** **`SA HU`**  
+**Name:** **`KING HASIB`**  
+**Nice Name:** **`HASIB**  
 **Profession:** **`STUDENT & CHATBOT DEVELOPER`**  
-**Location:** **`KHAGRACHARI, BANGLADESH`**  
+**Location:** **`MYMENSHINGH, BANGLADESH`**  
 
 ### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[01882 333052](https://wa.me/+8801882333052)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/100001039692046)**  
-- **Messenger:** **[Message Me](https://m.me/100001039692046)**  
+- **WhatsApp:** **[0576925187] (https://wa.me/+966576925187)**  
+- **Facebook:** **[Facebook ID](https://www.facebook.com/profile.php?id=100001207035597)**  
+- **Messenger:** **[Message Me](https://m.me/100001207035597)**  
 
-### 🚀 **DEVELOPMENT APPROACH**  
+### 🚀 **DEVELOPMENT  APPROACH**  
 - 💻 **Copy-paste techniques with customizations**  
 - 🤝 **Collaborative development with friends**  
 - 🤖 **AI-powered using ChatGPT and other advanced tools**  
@@ -168,7 +168,7 @@ Please do not disturb the admin unless you have a special need. Thank you!
   <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://m.me/100001039692046">
+  <a href="https://m.me/100001207035597">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
@@ -184,7 +184,7 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 ---
 
-💖 **Thank You For Choosing 𝗦𝗵𝗮𝗵𝗮𝗱𝗮𝘁 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
+💖 **Thank You For Choosing KING HASIB!**  
 🗓️ *Release Date:* `11/08/2025 at 02:00`  
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
@@ -196,8 +196,8 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 <p align="center">
   <a href="https://github.com/shahadat-sahu"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
-  <a href="https://wa.me/+8801882333052"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
-  <a href="https://facebook.com/100001039692046"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
+  <a href="https://wa.me/100001207035597"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
+  <a href="https://facebook.com/100001207035597"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
   <a href="https://t.me/+8EtzLXVG-REwYTM1"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
   <a href="https://youtube.com/@cyberbotcommunity"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
 </p>
